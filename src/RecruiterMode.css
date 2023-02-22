@@ -1,0 +1,4 @@
+.recruiter__modeContainer {
+    display: flex;
+    flex-direction: column;
+}
