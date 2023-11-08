@@ -24,6 +24,7 @@ export default function EmailRow({ title, subject, description, time, id }) {
         );
 
         navigate("/mail")
+        console.log(selectMail);
     };
 
 
